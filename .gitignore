@@ -1,0 +1,15 @@
+# dbt
+target/
+dbt_packages/
+profiles.yml
+
+# environment
+.env
+
+# logs
+*.log
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
