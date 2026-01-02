@@ -1,4 +1,3 @@
-=======
 # Netflix Data Analysis using dbt & Snowflake
 
 ##  Project Overview
